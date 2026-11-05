@@ -1,0 +1,62 @@
+EPISODE NUMBER: Episode 2
+EPISODE LOGLINE: Test episode.
+CONTINUITY NOTES: Synthetic fixture.
+
+--- SCRIPT START ---
+
+SCENE 01
+Scene heading: EXT. MANOR – NIGHT
+Scene start: 00:00.00
+Scene end: 00:32.00
+
+Actions and dialogue:
+
+**CAMERA:**
+Start: (00:00.00) | End: (00:05.00)
+A dark stone cell.
+
+**MARA (Desperate):**
+Start: (00:00.50) | End: (00:03.00)
+"Is anyone there?"
+
+**CAMERA:**
+Start: (00:05.00) | End: (00:10.00)
+A hooded stranger appears at the bars.
+
+**STRANGER (Low):**
+Start: (00:05.50) | End: (00:08.50)
+"Your father is not dead, Mara."
+
+**CAMERA:**
+Start: (00:10.00) | End: (00:16.00)
+Close-up on Mara, stunned.
+
+**MARA (Shocked):**
+Start: (00:10.50) | End: (00:13.00)
+"What did you say?"
+
+**CAMERA:**
+Start: (00:16.00) | End: (00:22.00)
+The stranger lowers the hood.
+
+**STRANGER (Grave):**
+Start: (00:16.50) | End: (00:20.00)
+"He is alive. And he is the one who betrayed you."
+
+**CAMERA:**
+Start: (00:22.00) | End: (00:28.00)
+Mara grips the bars.
+
+**MARA (Breathless):**
+Start: (00:22.50) | End: (00:26.00)
+"That is impossible."
+
+**CAMERA:**
+Start: (00:28.00) | End: (00:34.00)
+The stranger steps back into darkness. Cut to black.
+
+**STRANGER (Ominous):**
+Start: (00:28.50) | End: (00:32.00)
+"Ask him yourself. Tonight."
+
+--- SCRIPT END ---

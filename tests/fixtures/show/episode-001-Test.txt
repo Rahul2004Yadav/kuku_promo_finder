@@ -1,0 +1,90 @@
+EPISODE NUMBER: Episode 1
+EPISODE LOGLINE: Test episode.
+CONTINUITY NOTES: Synthetic fixture.
+
+--- SCRIPT START ---
+
+SCENE 01
+Scene heading: EXT. MANOR – NIGHT
+Scene start: 00:00.00
+Scene end: 00:44.00
+
+Actions and dialogue:
+
+**CAMERA:**
+Start: (00:00.00) | End: (00:04.00)
+Wide shot of a rain-soaked courtyard at night.
+
+**ACTION:**
+Start: (00:00.50) | End: (00:04.00)
+Mara walks toward the manor gates carrying a lantern.
+
+**CAMERA:**
+Start: (00:04.00) | End: (00:09.00)
+Medium shot as Lord Vane steps out of the shadows.
+
+**LORD VANE (Cold, Menacing):**
+Start: (00:04.50) | End: (00:07.00)
+"You were told never to come back here."
+
+**CAMERA:**
+Start: (00:09.00) | End: (00:14.00)
+Close-up on Mara, defiant.
+
+**MARA (Defiant):**
+Start: (00:09.50) | End: (00:12.50)
+"I came for what you stole from my father."
+
+**CAMERA:**
+Start: (00:14.00) | End: (00:19.00)
+Two-shot of them facing each other.
+
+**LORD VANE (Mocking):**
+Start: (00:14.50) | End: (00:17.50)
+"Your father was a thief and a liar."
+
+**CAMERA:**
+Start: (00:19.00) | End: (00:24.00)
+Close-up on Mara's hand tightening on the lantern.
+
+**MARA (Furious):**
+Start: (00:19.50) | End: (00:23.00)
+"Then why did he die in your dungeon?"
+
+**CAMERA:**
+Start: (00:24.00) | End: (00:29.00)
+Lord Vane raises his hand.
+
+**ACTION:**
+Start: (00:24.50) | End: (00:27.00)
+Lord Vane slaps Mara hard across the face; the lantern shatters on the stones.
+
+**SOUND FX:**
+Start: (00:25.00) | End: (00:27.00)
+A sharp slap and the crash of shattering glass.
+
+**CAMERA:**
+Start: (00:29.00) | End: (00:34.00)
+Close-up on Mara, blood at her lip.
+
+**MARA (Trembling, Vowing):**
+Start: (00:29.50) | End: (00:33.00)
+"I will make you pay for this."
+
+**CAMERA:**
+Start: (00:34.00) | End: (00:40.00)
+Low angle on Lord Vane as guards appear behind Mara.
+
+**LORD VANE (Sinister):**
+Start: (00:34.50) | End: (00:38.00)
+"Lock her in the dungeon. Like her father."
+
+**CAMERA:**
+Start: (00:40.00) | End: (00:44.00)
+Mara is seized. Cut to black.
+
+**SOUND FX:**
+Start: (00:40.00) | End: (00:44.00)
+Ominous drone swells to a cliffhanger sting.
+
+--- SCRIPT END ---
