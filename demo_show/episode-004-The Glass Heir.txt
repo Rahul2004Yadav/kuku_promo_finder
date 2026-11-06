@@ -1,0 +1,109 @@
+EPISODE NUMBER: Episode 4
+EPISODE LOGLINE: Lena tells the court how the fire really started, Tomas confesses a secret he kept for five years, and Lady Corvina's hold on the court begins to crack.
+CONTINUITY NOTES: Picks up immediately after the unmasking in Episode 3.
+
+--- SCRIPT START ---
+
+SCENE 01
+Scene heading: INT. COURTROOM – CONTINUOUS
+Scene start: 00:00.00
+Scene end: 00:48.50
+
+Actions and dialogue:
+
+**CAMERA:**
+Start: (00:00.00) | End: (00:04.00)
+Medium shot of Lena walking slowly toward the dock.
+
+**LENA (Bitter):**
+Start: (00:00.50) | End: (00:03.50)
+"Five years I lived with these scars."
+
+**CAMERA:**
+Start: (00:04.00) | End: (00:08.00)
+Close-up of Noor shaking her head.
+
+**NOOR (Desperate):**
+Start: (00:04.40) | End: (00:07.60)
+"I tried to reach you. The roof came down!"
+
+**CAMERA:**
+Start: (00:08.00) | End: (00:12.50)
+Wide shot as Tomas pushes through the crowd to the front.
+
+**TOMAS (Anguished):**
+Start: (00:08.50) | End: (00:12.00)
+"Stop! It was not Noor. It was me."
+
+**CAMERA:**
+Start: (00:12.50) | End: (00:16.50)
+Close-up of Lena turning, stunned.
+
+**LENA (Stunned):**
+Start: (00:12.90) | End: (00:15.90)
+"Papa?"
+
+**CAMERA:**
+Start: (00:16.50) | End: (00:21.50)
+Medium shot of Tomas, tears on his face.
+
+**TOMAS (Broken):**
+Start: (00:17.00) | End: (00:21.20)
+"Lady Corvina paid me to fire the old workshop. I did not know you were inside."
+
+**CAMERA:**
+Start: (00:21.50) | End: (00:25.00)
+Close-up of Lady Corvina's face freezing.
+
+**ACTION:**
+Start: (00:21.80) | End: (00:24.60)
+Her wine cup slips and shatters.
+
+**CAMERA:**
+Start: (00:25.00) | End: (00:29.00)
+Medium shot of Judge Marlow leaning forward.
+
+**JUDGE MARLOW (Grave):**
+Start: (00:25.50) | End: (00:28.50)
+"Lady Corvina. Is this true?"
+
+**CAMERA:**
+Start: (00:29.00) | End: (00:33.00)
+Close-up of Lady Corvina, recovering her smile.
+
+**LADY CORVINA (Smooth):**
+Start: (00:29.50) | End: (00:32.70)
+"The words of a drunk old man."
+
+**CAMERA:**
+Start: (00:33.00) | End: (00:37.50)
+Wide shot as Pip runs in, waving a ledger.
+
+**PIP (Shouting):**
+Start: (00:33.50) | End: (00:37.00)
+"The bottle seller's ledger! Her steward bought it!"
+
+**CAMERA:**
+Start: (00:37.50) | End: (00:41.50)
+Close-up of Lady Corvina's eyes narrowing at Lena.
+
+**LADY CORVINA (Threatening):**
+Start: (00:37.90) | End: (00:41.10)
+"Choose your next words carefully, girl."
+
+**CAMERA:**
+Start: (00:41.50) | End: (00:45.50)
+Two-shot of Lena and Noor, face to face.
+
+**LENA (Torn):**
+Start: (00:42.00) | End: (00:45.00)
+"If I tell the truth, she kills us both."
+
+**CAMERA:**
+Start: (00:45.50) | End: (00:48.50)
+Black screen.
+
+**SOUND FX:**
+Start: (00:45.70) | End: (00:48.30)
+An ominous drone swells. Cut to black.
+

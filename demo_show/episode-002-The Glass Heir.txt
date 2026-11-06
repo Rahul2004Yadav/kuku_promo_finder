@@ -1,0 +1,124 @@
+EPISODE NUMBER: Episode 2
+EPISODE LOGLINE: Locked in the tower, Noor learns the dying Earl drank from a glass she never made, while her father bargains with Lady Corvina for her life.
+CONTINUITY NOTES: Picks up from Episode 1 in the great hall.
+
+--- SCRIPT START ---
+
+SCENE 01
+Scene heading: INT. TOWER CELL – NIGHT
+Scene start: 00:00.00
+Scene end: 00:23.50
+
+Actions and dialogue:
+
+**CAMERA:**
+Start: (00:00.00) | End: (00:04.50)
+Wide shot of a bare stone cell lit by one barred window.
+
+**ACTION:**
+Start: (00:00.50) | End: (00:04.00)
+Noor paces, rubbing the bruise on her cheek.
+
+**CAMERA:**
+Start: (00:04.50) | End: (00:08.50)
+Medium shot as the door grinds open and a young servant slips in.
+
+**PIP (Nervous, Urgent):**
+Start: (00:05.00) | End: (00:08.00)
+"Miss Noor! I brought bread. And news."
+
+**CAMERA:**
+Start: (00:08.50) | End: (00:12.00)
+Close-up of Noor grabbing the boy's sleeve.
+
+**NOOR (Desperate):**
+Start: (00:08.80) | End: (00:11.60)
+"Is the Earl alive?"
+
+**CAMERA:**
+Start: (00:12.00) | End: (00:16.00)
+Close-up of Pip, eyes darting to the door.
+
+**PIP (Whispering):**
+Start: (00:12.40) | End: (00:15.60)
+"Barely. But the bottle, miss. It has no maker's mark."
+
+**CAMERA:**
+Start: (00:16.00) | End: (00:19.50)
+Extreme close-up of Noor's face as she realises.
+
+**NOOR (Stunned):**
+Start: (00:16.30) | End: (00:19.10)
+"Every glass I make carries my mark."
+
+**CAMERA:**
+Start: (00:19.50) | End: (00:23.50)
+Medium two-shot; Noor kneels to the boy's height.
+
+**NOOR (Fierce):**
+Start: (00:20.00) | End: (00:23.20)
+"Then someone forged it. Find who sold that bottle."
+
+SCENE 02
+Scene heading: INT. LADY CORVINA'S CHAMBER – NIGHT
+Scene start: 00:23.50
+Scene end: 00:51.50
+
+Actions and dialogue:
+
+**CAMERA:**
+Start: (00:23.50) | End: (00:28.50)
+Wide shot of a candlelit chamber; Tomas stands before Lady Corvina, hat in hand.
+
+**TOMAS (Pleading):**
+Start: (00:24.00) | End: (00:27.50)
+"Take my workshop. Take everything. Spare my daughter."
+
+**CAMERA:**
+Start: (00:28.50) | End: (00:32.50)
+Close-up of Lady Corvina smiling coldly over her wine.
+
+**LADY CORVINA (Mocking):**
+Start: (00:29.00) | End: (00:32.00)
+"Your workshop is worth less than her rope."
+
+**CAMERA:**
+Start: (00:32.50) | End: (00:36.50)
+Medium shot of Tomas falling to his knees.
+
+**TOMAS (Broken):**
+Start: (00:33.00) | End: (00:36.20)
+"Then take me instead. I am the glassblower."
+
+**CAMERA:**
+Start: (00:36.50) | End: (00:41.00)
+Close-up as Lady Corvina leans down, almost tender.
+
+**LADY CORVINA (Sinister):**
+Start: (00:37.00) | End: (00:40.60)
+"How noble. But I don't want you, old man. I want her silence."
+
+**CAMERA:**
+Start: (00:41.00) | End: (00:45.00)
+Over-the-shoulder shot: the masked witness waits in the shadows behind the curtain.
+
+**ACTION:**
+Start: (00:41.50) | End: (00:44.50)
+The silver mask catches the candlelight.
+
+**CAMERA:**
+Start: (00:45.00) | End: (00:48.50)
+Close-up of Lady Corvina's eyes flicking to the curtain.
+
+**LADY CORVINA (Cold):**
+Start: (00:45.30) | End: (00:48.10)
+"Make sure she never testifies."
+
+**CAMERA:**
+Start: (00:48.50) | End: (00:51.50)
+Black screen.
+
+**SOUND FX:**
+Start: (00:48.70) | End: (00:51.30)
+A low ominous drone. Cut to black.
+

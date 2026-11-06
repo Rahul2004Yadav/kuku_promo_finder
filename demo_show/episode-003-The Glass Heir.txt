@@ -1,0 +1,121 @@
+EPISODE NUMBER: Episode 3
+EPISODE LOGLINE: At the trial, Noor proves the poisoned bottle was never hers, but the masked witness unmasks and the court gasps: it is Noor's sister, Lena, believed dead for five years.
+CONTINUITY NOTES: Picks up the morning after Episode 2.
+
+--- SCRIPT START ---
+
+SCENE 01
+Scene heading: INT. COURTROOM – DAY
+Scene start: 00:00.00
+Scene end: 00:51.00
+
+Actions and dialogue:
+
+**CAMERA:**
+Start: (00:00.00) | End: (00:05.00)
+Wide shot of a packed courtroom; Noor in chains at the dock.
+
+**ACTION:**
+Start: (00:00.50) | End: (00:04.50)
+The crowd jeers as Noor is led in.
+
+**CAMERA:**
+Start: (00:05.00) | End: (00:09.00)
+Medium shot of the old Judge striking his gavel.
+
+**SOUND FX:**
+Start: (00:05.20) | End: (00:06.00)
+The gavel bangs.
+
+**JUDGE MARLOW (Stern):**
+Start: (00:06.00) | End: (00:08.80)
+"The accused will answer the charge."
+
+**CAMERA:**
+Start: (00:09.00) | End: (00:13.00)
+Close-up of Noor holding up her hand, palm open.
+
+**NOOR (Resolute):**
+Start: (00:09.50) | End: (00:12.70)
+"Bring me any glass from my workshop. And the poison bottle."
+
+**CAMERA:**
+Start: (00:13.00) | End: (00:17.50)
+Insert: two bottles side by side on the judge's table.
+
+**ACTION:**
+Start: (00:13.50) | End: (00:17.00)
+Pip places the bottles down, hands shaking.
+
+**CAMERA:**
+Start: (00:17.50) | End: (00:21.50)
+Close-up of Noor turning one bottle to the light.
+
+**NOOR (Firm):**
+Start: (00:17.90) | End: (00:21.30)
+"Mine has a tiny swallow in the base. The poison bottle has nothing."
+
+**CAMERA:**
+Start: (00:21.50) | End: (00:25.00)
+Wide shot as murmurs sweep through the courtroom.
+
+**SOUND FX:**
+Start: (00:21.80) | End: (00:24.60)
+The crowd erupts in shocked murmurs.
+
+**CAMERA:**
+Start: (00:25.00) | End: (00:29.00)
+Medium shot of Lady Corvina rising, furious.
+
+**LADY CORVINA (Furious):**
+Start: (00:25.40) | End: (00:28.60)
+"A swallow proves nothing! The witness saw her!"
+
+**CAMERA:**
+Start: (00:29.00) | End: (00:33.00)
+Medium shot of the masked witness stepping into the aisle.
+
+**MASKED WITNESS (Cold):**
+Start: (00:29.50) | End: (00:32.50)
+"Then let the court see my face."
+
+**CAMERA:**
+Start: (00:33.00) | End: (00:36.50)
+Extreme close-up of gloved fingers untying the silver mask.
+
+**ACTION:**
+Start: (00:33.30) | End: (00:36.10)
+The mask falls and clatters on the floor.
+
+**CAMERA:**
+Start: (00:36.50) | End: (00:40.00)
+Close-up of a young woman's scarred face, identical eyes to Noor's.
+
+**SOUND FX:**
+Start: (00:36.80) | End: (00:39.20)
+A collective gasp.
+
+**CAMERA:**
+Start: (00:40.00) | End: (00:44.00)
+Extreme close-up of Noor, all colour gone from her face.
+
+**NOOR (Shocked, Trembling):**
+Start: (00:40.40) | End: (00:43.40)
+"Lena? You died in the fire."
+
+**CAMERA:**
+Start: (00:44.00) | End: (00:48.00)
+Close-up of Lena smiling without warmth.
+
+**LENA (Venomous):**
+Start: (00:44.50) | End: (00:47.50)
+"You left me in that fire, sister."
+
+**CAMERA:**
+Start: (00:48.00) | End: (00:51.00)
+Black screen.
+
+**SOUND FX:**
+Start: (00:48.20) | End: (00:50.80)
+A cliffhanger sting slams. Cut to black.
+

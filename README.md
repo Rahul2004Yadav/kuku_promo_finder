@@ -6,7 +6,22 @@ segment, the hook, the cliffhanger and one line on why it works.
 
 Kuku AI Generalist Assignment, Problem 1.
 
-## Run it
+## Web app
+
+```bash
+pip install -r requirements.txt     # streamlit, pandas, altair (only the web app needs them)
+streamlit run app.py
+```
+
+It has a built-in **synthetic demo show** (`demo_show/`, an original 4-episode story made by
+`demo_show/make_demo.py`), or you can upload a zip of scripts (read in a temporary folder, not kept). The pages are:
+Post first, All promos, Promo detail (the clip's script with the hook and the cut marked, plus its scores), Quality report, and Export.
+The optional **LLM judge** is in the sidebar: pick a provider, type a model, and paste an API key. The key is used for that
+session only. The owner can also set e.g. `GEMINI_API_KEY` in the app's Streamlit secrets.
+
+Deploy on Streamlit Community Cloud: point it at this repo with `app.py` as the main file. No secrets are needed for rules-only mode.
+
+## Run it from the command line
 
 Python 3.9+ and nothing to install (standard library only).
 
@@ -33,7 +48,7 @@ python find_promos.py scripts/ --llm custom:<model>                    # any Ope
 
 The input can be a folder or a `.zip` of `episode-*.txt` scripts.
 
-Tests (they use a made-up two-episode fixture, not Kuku content):
+Tests (they use made-up scripts, not Kuku content):
 
 ```bash
 python -m unittest discover tests
@@ -58,6 +73,8 @@ scripts ─► parse ─► cut points ─► score every 20–60 s window ─�
           + tones   that don't     cliffhanger (last 6 s)         + "stitched"         may only cite event IDs;
                     cut a line     standalone, intensity          hook + body          code validates every cut
 ```
+
+`pipeline.py` runs the steps below. Both the CLI and the web app use it.
 
 1. **Parse** (`parse.py`). Each script becomes timed events: camera shots, dialogue (speaker plus the
    writer's emotion tags, such as "Cold, Menacing"), actions and sound FX.

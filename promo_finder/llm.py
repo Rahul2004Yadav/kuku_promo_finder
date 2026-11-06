@@ -76,7 +76,8 @@ def _post(url, payload, headers, retries=4):
             raise LLMError(str(e)) from e
 
 
-def complete(spec, system, user):
+def complete(spec, system, user, api_key=None):
+    """api_key overrides the provider's environment variable (the web app passes a per-session key)."""
     provider, _, model = spec.partition(":")
     if provider == "mock":   # offline plumbing test, not a real judgement
         ids = re.findall(r"^(C\d+):", user, re.M)
@@ -84,7 +85,7 @@ def complete(spec, system, user):
                                            "hook_text": "", "cliffhanger_text": "", "why": "mock",
                                            "start_id": None, "end_id": None} for i in ids]})
     if provider == "anthropic":
-        key = os.environ.get("ANTHROPIC_API_KEY") or _missing("ANTHROPIC_API_KEY")
+        key = api_key or os.environ.get("ANTHROPIC_API_KEY") or _missing("ANTHROPIC_API_KEY")
         data = _post("https://api.anthropic.com/v1/messages",
                      {"model": model, "max_tokens": 4000, "system": system,
                       "messages": [{"role": "user", "content": user}]},
@@ -97,7 +98,7 @@ def complete(spec, system, user):
         raise LLMError("Set PROMO_LLM_BASE_URL for the 'custom' provider")
     headers = {}
     if key_env:
-        key = os.environ.get(key_env) or _missing(key_env)
+        key = api_key or os.environ.get(key_env) or _missing(key_env)
         headers["Authorization"] = f"Bearer {key}"
     data = _post(url, {"model": model, "temperature": 0.2,
                        "response_format": {"type": "json_object"},
@@ -163,7 +164,7 @@ def _refine(promo, scorer, start_id, end_id):
     return Segment(body.episode, s, e)
 
 
-def judge_episode(spec, ep, promos, scorers, episodes_by_num, cache_dir=None, log=print):
+def judge_episode(spec, ep, promos, scorers, episodes_by_num, cache_dir=None, log=print, api_key=None):
     """Re-score this episode's candidate promos with the model, in place."""
     if not promos:
         return
@@ -186,7 +187,7 @@ def judge_episode(spec, ep, promos, scorers, episodes_by_num, cache_dir=None, lo
         if cache.exists():
             raw = cache.read_text()
     if raw is None:
-        raw = complete(spec, SYSTEM, user)
+        raw = complete(spec, SYSTEM, user, api_key)
         if cache:
             cache.parent.mkdir(parents=True, exist_ok=True)
             cache.write_text(raw)

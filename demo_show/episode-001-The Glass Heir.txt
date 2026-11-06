@@ -1,0 +1,164 @@
+EPISODE NUMBER: Episode 1
+EPISODE LOGLINE: Glassblower's daughter Noor is dragged before the court accused of poisoning the young Earl, and a masked witness swears she did it.
+CONTINUITY NOTES: Series opener.
+
+--- SCRIPT START ---
+
+SCENE 01
+Scene heading: INT. GLASS WORKSHOP – NIGHT
+Scene start: 00:00.00
+Scene end: 00:25.50
+
+Actions and dialogue:
+
+**CAMERA:**
+Start: (00:00.00) | End: (00:04.00)
+Wide shot of a glowing furnace, molten glass turning on an iron pipe.
+
+**ACTION:**
+Start: (00:00.50) | End: (00:03.50)
+Noor shapes a small glass vial, sweat on her brow.
+
+**CAMERA:**
+Start: (00:04.00) | End: (00:07.50)
+Close-up of Noor's father coughing into a stained cloth.
+
+**TOMAS (Weak, Gentle):**
+Start: (00:04.30) | End: (00:07.10)
+"Finish it tomorrow, my girl. Rest."
+
+**CAMERA:**
+Start: (00:07.50) | End: (00:11.00)
+Medium shot of Noor smiling at him.
+
+**NOOR (Warm):**
+Start: (00:07.90) | End: (00:10.50)
+"One more piece, Papa. For the Earl's feast."
+
+**CAMERA:**
+Start: (00:11.00) | End: (00:15.00)
+Wide shot as the workshop door crashes open; guards pour in.
+
+**SOUND FX:**
+Start: (00:11.20) | End: (00:12.20)
+The door slams against the wall.
+
+**CAPTAIN REYES (Shouting):**
+Start: (00:12.20) | End: (00:14.70)
+"Noor Ashby! You are under arrest!"
+
+**CAMERA:**
+Start: (00:15.00) | End: (00:18.00)
+Close-up of the glass vial slipping from Noor's hand and shattering.
+
+**SOUND FX:**
+Start: (00:15.20) | End: (00:16.40)
+Glass shatters on stone.
+
+**CAMERA:**
+Start: (00:18.00) | End: (00:21.50)
+Medium shot of Noor, stunned, as a guard seizes her arm.
+
+**NOOR (Shocked):**
+Start: (00:18.30) | End: (00:21.10)
+"Arrest? For what?"
+
+**CAMERA:**
+Start: (00:21.50) | End: (00:25.50)
+Close-up of Captain Reyes holding up a cracked glass bottle.
+
+**CAPTAIN REYES (Cold):**
+Start: (00:21.90) | End: (00:25.10)
+"The Earl drank poison from your glass. He is dying."
+
+SCENE 02
+Scene heading: INT. GREAT HALL – NIGHT
+Scene start: 00:25.50
+Scene end: 01:04.00
+
+Actions and dialogue:
+
+**CAMERA:**
+Start: (00:25.50) | End: (00:30.50)
+Wide shot of the torch-lit hall, nobles lining the walls, Noor forced to her knees.
+
+**ACTION:**
+Start: (00:26.00) | End: (00:30.00)
+Guards shove Noor down before the high seat.
+
+**CAMERA:**
+Start: (00:30.50) | End: (00:34.50)
+Medium shot of Lady Corvina rising from the high seat in black silk.
+
+**LADY CORVINA (Icy, Menacing):**
+Start: (00:31.00) | End: (00:34.20)
+"My son lies dying because of your filthy hands."
+
+**CAMERA:**
+Start: (00:34.50) | End: (00:38.00)
+Close-up of Noor looking up, defiant.
+
+**NOOR (Defiant):**
+Start: (00:34.80) | End: (00:37.70)
+"I made the glass. I never filled it."
+
+**CAMERA:**
+Start: (00:38.00) | End: (00:40.50)
+Close-up as Lady Corvina's hand strikes Noor across the face.
+
+**SOUND FX:**
+Start: (00:38.20) | End: (00:38.80)
+A sharp slap echoes through the hall.
+
+**ACTION:**
+Start: (00:38.80) | End: (00:40.30)
+Noor's head snaps to the side; blood on her lip.
+
+**CAMERA:**
+Start: (00:40.50) | End: (00:44.50)
+Medium shot of Lady Corvina turning to the crowd.
+
+**LADY CORVINA (Triumphant):**
+Start: (00:41.00) | End: (00:44.20)
+"Then let the witness speak."
+
+**CAMERA:**
+Start: (00:44.50) | End: (00:49.00)
+Wide shot as a figure in a silver mask steps out of the crowd.
+
+**ACTION:**
+Start: (00:45.00) | End: (00:48.50)
+Whispers ripple through the nobles.
+
+**CAMERA:**
+Start: (00:49.00) | End: (00:53.00)
+Close-up of the silver mask, eyes glinting behind it.
+
+**MASKED WITNESS (Low, Sinister):**
+Start: (00:49.50) | End: (00:52.70)
+"I saw her pour it. With my own eyes."
+
+**CAMERA:**
+Start: (00:53.00) | End: (00:57.00)
+Extreme close-up of Noor's eyes widening in horror.
+
+**NOOR (Horrified):**
+Start: (00:53.40) | End: (00:56.40)
+"You're lying! Who are you?"
+
+**CAMERA:**
+Start: (00:57.00) | End: (01:01.00)
+Slow push-in on the mask as the witness leans close to Noor's ear.
+
+**MASKED WITNESS (Whispering, Cruel):**
+Start: (00:57.50) | End: (01:00.50)
+"Someone you buried, Noor."
+
+**CAMERA:**
+Start: (01:01.00) | End: (01:04.00)
+Black screen.
+
+**SOUND FX:**
+Start: (01:01.20) | End: (01:03.80)
+An ominous drone swells to a cliffhanger sting. Cut to black.
+

@@ -59,6 +59,22 @@ class PipelineTest(unittest.TestCase):
         judge_episode("mock:test", self.by_num[1], ep1, scorers, self.by_num, log=lambda *_: None)
         self.assertTrue(all(p.judged_by == "mock:test" and "llm_hook" in p.scores for p in ep1))
 
+    def test_shared_pipeline_with_mock_llm(self):
+        from promo_finder.pipeline import run
+        seen = []
+        ranked, first_wave, settings, _ = run(self.eps, 2, "mock:x", log=lambda *a: None,
+                                              progress=lambda f, n: seen.append(n))
+        self.assertTrue(ranked and first_wave)
+        self.assertEqual(seen, [1, 2])
+        self.assertEqual(settings["judge"], "mock:x")
+        self.assertTrue(all(20 <= p.length <= 60 for p in ranked))
+
+    def test_demo_show_finds_promos(self):
+        from promo_finder.pipeline import run
+        ranked, *_ = run(load_show(ROOT / "demo_show"), 3, log=lambda *a: None)
+        self.assertGreaterEqual(len(ranked), 4)
+        self.assertFalse(any(f in ("BAD_LENGTH", "CUTS_A_LINE") for p in ranked for f in p.flags))
+
     def test_cli(self):
         with tempfile.TemporaryDirectory() as out:
             subprocess.run([sys.executable, str(ROOT / "find_promos.py"), str(FIXTURE), "--out", out],
